@@ -1,0 +1,7 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Jose Luis Pabon Website"
+
+theme = "academia-hugo"
+# email = "test@example.com"
+email_form = 0
