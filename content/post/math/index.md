@@ -6,9 +6,10 @@ authors:
 - admin
 tags:
 - academia
+- math
 categories: []
-date: "2016-04-20T00:00:00Z"
-lastmod: "2019-04-17T00:00:00Z"
+date: "2020-01-20T00:00:00Z"
+lastmod: "2020-08-20T00:00:00Z"
 featured: true
 draft: false
 
@@ -35,24 +36,7 @@ projects: []
 # - album: gallery
 #   caption: Ocean
 #   image: theme-ocean.png
-# - album: gallery
-#   caption: Forest
-#   image: theme-forest.png
-# - album: gallery
-#   caption: Dark
-#   image: theme-dark.png
-# - album: gallery
-#   caption: Apogee
-#   image: theme-apogee.png
-# - album: gallery
-#   caption: 1950s
-#   image: theme-1950s.png
-# - album: gallery
-#   caption: Coffee theme with Playfair font
-#   image: theme-coffee-playfair.png
-# - album: gallery
-#   caption: Strawberry
-#   image: theme-strawberry.png
+
 ---
 
 
@@ -76,5 +60,18 @@ Here are the files, I hope they help your studying. Any suggestions for edits, t
 - [Jose_Pabon_Numerical_Analysis_NJIT_Past_Qual_Exam__Linear_Algebra_6___8__2020_August_2018_only_prob_3.pdf][14]
 - [Jose_Pabon___Numerical_Analysis_Outline_review.pdf][15]
 
-[1]: files/Jose_Pabon_Complex_Analysis_NJIT_Blackmore_Final_Practice.pdf
-[2]: files/Jose_Pabon_Complex_Analysis_Qual_NJIT_July_2020vFinal.pdf
+[1]:  files/Jose_Pabon_Complex_Analysis_NJIT_Blackmore_Final_Practice.pdf
+[2]:  files/Jose_Pabon_Complex_Analysis_Qual_NJIT_July_2020vFinal.pdf
+[3]:  files/Jose_Pabon_Complex_Analysis_NJIT_Contour_integrals_are_invariant_under_parametrizations.pdf 
+[4]:  files/Jose_Pabon_Complex_Analysis_NJIT_Rouche_Theorem.pdf
+[5]:  files/Jose_Pabon_Complex_Analysis_Practice_Qual_NJIT_August_2018.pdf
+[6]:  files/Jose_Pabon_Complex_Analysis_Practice_Qual_NJIT_August_2019.pdf
+[7]:  files/Jose_Pabon_Modeling_and_Methods_of_Applied_Mathematics_Review__and_Qual_Problems_July_3_2020.pdf
+[8]:  files/Jose_Pabon_NJIT_Past_Qual_Exam_Methods_of_Applied_Math_Exam__Prep_2018.pdf
+[9]:  files/Jose_Pabon_NJIT_Past_Qual_Exam__Linear_Algebra_6___11__2020_May_2018.pdf
+[10]: files/Jose_Pabon_Numerical_Analysis_and_Linear_Algebra_NJIT_Past_Qual_Exam_August2015___May2018_practiced.pdf
+[11]: files/Jose_Pabon_Numerical_Analysis_NJIT_Past_Qual_Exam_August2018_practiced_5_22_2020.pdf
+[12]: files/Jose_Pabon_Numerical_Analysis_NJIT_Past_Qual_Exam_August2019_Q6_Cheby_Poly_practice_6_3_2020.pdf
+[13]: files/Jose_Pabon_Numerical_Analysis_NJIT_Past_Qual_Exam_May2018__practiced_on_5_28_2020.pdf
+[14]: files/Jose_Pabon_Numerical_Analysis_NJIT_Past_Qual_Exam_practice_August_2018_Problem_6_Polynomial_division.pdf
+[15]: files/Jose_Pabon_Numerical_Analysis_NJIT_Past_Qual_Exam__Linear_Algebra_6___8__2020_August_2018_only_prob_3.pdf
