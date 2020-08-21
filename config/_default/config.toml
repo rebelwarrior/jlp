@@ -9,8 +9,8 @@ title = "Jose Luis Pabon Website"
 
 # The URL of your site.
 # End your URL with a `/` trailing slash, e.g. `https://example.com/`.
-baseURL = "/" 
-# https://web.njit.edu/~jlp43/"
+# baseURL = "/" 
+baseURL = "https://web.njit.edu/~jlp43/"
 
 ## For Creating a localwebsite only. 
 # relativeURLs = false
