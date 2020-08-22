@@ -14,7 +14,7 @@ btn:
 superuser: true
 
 # Role/position
-role: Math phD student
+role: Math PhD student
 
 # Organizations/Affiliations
 organizations:
@@ -53,9 +53,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-# - icon: twitter
-#   icon_pack: fab
-#   link: https://twitter.com/GeorgeCushen
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/public-profile/in/josé-pabón-b1b27b174
 # - icon: google-scholar
 #   icon_pack: ai
 #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -88,6 +88,6 @@ Outside of research, I am a proud father of two wonderful children and thus I ha
 
 Here is my [CV](files/JosePabonResume.pdf). 
 
-Are you looking for information on expositions I've composed regarding past Ph.D. exams? then click [here](). 
+Are you looking for information on expositions I've composed regarding past Ph.D. exams? then click [here](post/math). 
 
 

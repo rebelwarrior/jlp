@@ -19,9 +19,9 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "National Hispanic Scholarhsip Finalist"
+  organization = "National Hispanic Scholarship Finalist"
   # organization_url = "https://www.coursera.org"
-  title = "National Hispanic Scholarhsip Finalist"
+  title = "National Hispanic Scholarship Finalist"
   # url = ""
   # certificate_url = "https://www.coursera.org"
   date_start = "2018-10-01"

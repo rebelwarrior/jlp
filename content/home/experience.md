@@ -7,7 +7,7 @@ weight = 40  # Order that this section will appear.
 
 title = "Experience"
 subtitle = "" 
-#subtitle = "PREVIOUS ASSOCIATIONS THAT HELPED TO GATHER EXPERIENCE"
+# subtitle = "PREVIOUS ASSOCIATIONS THAT HELPED TO GATHER EXPERIENCE"
 
 # Date format for experience
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -18,8 +18,9 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
 [[experience]]
-  title = "Chief Technology Officer "
+  title = "Chief Technology Officer"
   company = "Reclaim Energies"
   company_url = ""
   location = "New Jersey"
