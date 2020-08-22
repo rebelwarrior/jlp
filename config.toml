@@ -6,4 +6,5 @@ theme = "academia-hugo"
 # email = "test@example.com"
 email_form = 0
 
-# Does this have an option for an favicon?
+
+# baseURL = "https://web.njit.edu/~jlp43/"
