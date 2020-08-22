@@ -6,3 +6,5 @@ theme = "academia-hugo"
 # email = "test@example.com"
 email_form = 0
 
+## To get dark as the default add "dark" as a class to body. 
+## Still haven't found the configuration place for this. 
